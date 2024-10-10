@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Andrés, i'm 25 years old
-- 🌱 I'm improving my skills in React
+- 🌱 I'm improving my skills in React and MERN Stack
 - 👜 This is my LinkedIn account: https://www.linkedin.com/in/andr%C3%A9s-mauricio-uribe-duque-31412115a/
 - 📫  you can contact me by the following email: kwideveloper@hotmail.com
 
